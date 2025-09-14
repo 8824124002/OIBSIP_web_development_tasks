@@ -36,4 +36,6 @@ Web Development | DSA | C Language | JavaScript | AI Integration | IoT Projects
 - 🐙 [GitHub](https://github.com/8824124002)
 
 ## SCREENSHOT
-![alt text](image.png)
+<img width="1875" height="977" alt="image" src="https://github.com/user-attachments/assets/26d211e2-fe2b-45b5-8689-6e3f22e58314" />
+
+
